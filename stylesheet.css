@@ -1,5 +1,18 @@
 #navbar {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly
+    justify-content: space-between;
+}
+
+#navbar-start {
+    display: flex;
+    flex-direction: row;   
+}
+#navbar-end {
+    display: flex;
+    flex-direction: row;  
+}
+.menu-item {
+    padding-left: 10px;
+    padding-right: 10px;
 }
