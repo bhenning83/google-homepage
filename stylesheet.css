@@ -16,3 +16,12 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+#profile-pic {
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    background-color: cyan;
+    margin-left: 20px;
+    margin-right: 10px;
+    align-self: center;
+}
