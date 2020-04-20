@@ -18,7 +18,7 @@
 }
 
 #profile-pic {
-    height: 30px;
+    height: 40px;
     width: 20px;
     border-radius: 50px;
     background-color: cyan;
@@ -39,4 +39,5 @@
     height: 40px;
     border-radius: 50px;
     font-size: 16px;
+    padding-left: 20px;
 }
