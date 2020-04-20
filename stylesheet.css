@@ -10,12 +10,13 @@
 }
 #navbar-end {
     display: flex;
-    flex-direction: row;  
+    flex-direction: row; 
 }
 .menu-item {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 16px;
+    font-family: arial, sans-serif; 
 }
 
 #profile-pic {
@@ -44,6 +45,7 @@
     -webkit-appearance: none;
     border-color: #bfbfbf;
     border-width: 1px;
+    font-family: arial, sans-serif; 
 }
 input:hover {
     box-shadow: 0px 0px 3px 3px lightgray;
@@ -53,6 +55,7 @@ input:hover {
     padding-top: 30px;
     flex-direction: row;
     justify-content: center;
+    font-family: arial, sans-serif; 
 }
 
 .lucky {
@@ -63,6 +66,7 @@ input:hover {
     margin-right: 4px;
     border-radius: 4px;
     font-size: 14px;
+    font-family: arial, sans-serif; 
 }
 
 .lucky:hover {
@@ -79,6 +83,7 @@ input:hover {
     position: relative;
     margin: 245px 0 0 0;
     padding-bottom: 20px;
+    font-family: arial, sans-serif; 
 }
 
 #footer-start {
