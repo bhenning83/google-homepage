@@ -16,6 +16,7 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+
 #profile-pic {
     height: 40px;
     width: 40px;
@@ -24,4 +25,14 @@
     margin-left: 20px;
     margin-right: 10px;
     align-self: center;
+}
+
+.center-me {
+    display: block;
+    margin: auto;
+}#logo {
+    padding-top: 110px;
+}
+#search-bar {
+    margin-top: 25px;
 }
