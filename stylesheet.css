@@ -76,7 +76,11 @@ input:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    position: relative;
+    margin: 245px 0 0 0;
+    padding-bottom: 20px;
 }
+
 #footer-start {
 display: flex;
 flex-direction: row;
@@ -84,4 +88,9 @@ flex-direction: row;
 #footer-end {
     display: flex;
     flex-direction: row;
+}
+.footer-item {
+    font-size: 16;
+    padding-left: 10px;
+    padding-right: 10px;
 }
